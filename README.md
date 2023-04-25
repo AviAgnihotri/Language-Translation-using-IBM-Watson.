@@ -10,8 +10,8 @@ To get started with this project, you will need to do the following:
 3. Obtain the API credentials for the Language Translator service.
 4. Install the necessary Python packages by running pip install -r requirements.txt.
 
-*_LICENSE_*
+**_LICENSE-_**
 This project is licensed under the MIT License.
 
-_*ACKNOWLEDGEMENTS*_
+**_ACKNOWLEDGEMENTS-_**
 This project was inspired by IBM Watson's Language Translator service and the ibm-watson Python library.
