@@ -1,7 +1,7 @@
 ## Language Translation using IBM Watson
 This project uses IBM Watson's Language Translator service to translate text from one language to another. The project is implemented in Python and uses the ibm-watson library to interact with the Watson API.
 
-_*GETTING STARTED*_
+**_GETTING STARTED-_**
 
 To get started with this project, you will need to do the following:
 
@@ -10,8 +10,10 @@ To get started with this project, you will need to do the following:
 3. Obtain the API credentials for the Language Translator service.
 4. Install the necessary Python packages by running pip install -r requirements.txt.
 
-**_LICENSE-_**
+**_LICENSE_**
+
 This project is licensed under the MIT License.
 
-**_ACKNOWLEDGEMENTS-_**
+**_ACKNOWLEDGEMENTS_**
+
 This project was inspired by IBM Watson's Language Translator service and the ibm-watson Python library.
