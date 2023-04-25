@@ -12,7 +12,7 @@ To get started with this project, you will need to do the following:
 
 *_LICENSE_*
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 _*ACKNOWLEDGEMENTS*_
 
