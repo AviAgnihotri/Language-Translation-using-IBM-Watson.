@@ -1,5 +1,5 @@
 ## Language Translation using IBM Watson
-This project uses IBM Watson's Language Translator service to translate text from one language to another. The project is implemented in Python and uses the ibm-watson library to interact with the Watson API.
+This project uses IBM Watson's Language Translator service to translate text from one language to another. The project is implemented in Python and uses the ibm-watson library to interact with the Watson API
 
 **_GETTING STARTED-_**
 
